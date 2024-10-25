@@ -1,7 +1,7 @@
 # quasicrystal
 Mathematical Investigation into quasicrystals
 
-Project members:
+Project members: Alan
 
 References:
 https://github.com/fogleman/Tiling
