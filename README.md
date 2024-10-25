@@ -1,7 +1,11 @@
 # quasicrystal
 Mathematical Investigation into quasicrystals
 
-Project members:
+
+Readme!!!
+
+
+Project members: *New Project Member* 
 
 References:
 https://github.com/fogleman/Tiling
