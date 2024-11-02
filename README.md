@@ -32,7 +32,8 @@ Sources:https://earthscience.stackexchange.com/questions/1015/why-are-there-no-c
 https://geo.libretexts.org/Bookshelves/Geology/Mineralogy_(Perkins_et_al.)/11%3A_Crystallography/11.02%3A_Translational_Symmetry
 
 Quasicrystals:
-Quasicrystals have an orderly structure but lack translational symmetry dissimilar to regular crystals, hence they are aperiodic.
+Quasicrystals have an orderly structure but lack translational symmetry dissimilar to regular crystals
+Crystal structure has long-range order with predictable arrangements of units across the entire crystalline structure but repetition of units is not periodic
 Diffraction analysis of quasicrystals reveal that individual units are 4-dimensional(???)
 
 Sources:
