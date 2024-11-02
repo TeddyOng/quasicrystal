@@ -34,9 +34,15 @@ https://geo.libretexts.org/Bookshelves/Geology/Mineralogy_(Perkins_et_al.)/11%3A
 Quasicrystals:
 Quasicrystals have an orderly structure but lack translational symmetry dissimilar to regular crystals
 Crystal structure has long-range order with predictable arrangements of units across the entire crystalline structure but repetition of units is not periodic
-Diffraction analysis of quasicrystals reveal that individual units are 4-dimensional(???)
+Diffraction analysis of quasicrystals reveal that individual units have 4 dimensional complexity (???)
+Crystals with regular tiling of higher dimensions can be projected onto a lower dimension to form quasicrystalline patterns (???)
+
+
+
+
 
 Sources:
 https://en.wikipedia.org/wiki/Quasicrystal
 https://en.wikipedia.org/wiki/Aperiodic_crystal
 https://www.sciencedirect.com/topics/materials-science/quasicrystal
+https://modern-physics.org/quasicrystals/
