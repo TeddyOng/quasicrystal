@@ -39,6 +39,21 @@ Crystals with regular tiling of higher dimensions can be projected onto a lower 
 
 
 
+Update 10/11/24:
+Steradian: solid angle, in the form of a circular cone section of a sphere. Steradian Ω=A/r^2 where A is the area of spherical section at bottom the cone, simplified to Ω=2(pi)h/r
+Steradian=1/4(pi) of complete sphere
+If solid angles of units add up to 4(pi) steradians, unit can tesselate in 3d
+code:
+python turtle graphics (WIP)
+Libraries for plotting: numpy, mathplotlib, installed via PIP
+Golden ratio within penrose structure: Ratio of sizes of polygons such as sizes of adjascent rings is usually determined by the golden ratio
+Quasicrystals as vector sum of waves in a plane: http://mainisusuallyafunction.blogspot.com/2011/10/quasicrystals-as-sums-of-waves-in-plane.html
+
+
+
+
+
+
 
 
 Sources:
