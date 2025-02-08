@@ -1,11 +1,13 @@
-# quasicrystal
-Mathematical Investigation into quasicrystals
+# Quasicrystal
 
-Project members: Alan, Robert
 
-References:
+## Mathematical Investigation into quasicrystals
+
+Project members: *Person*
+
+**References:**
 https://github.com/fogleman/Tiling
 
 
-Others:
+**Others:**
 https://arxiv.org/abs/1811.03792v1
